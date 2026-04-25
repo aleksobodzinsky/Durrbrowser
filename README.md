@@ -4,3 +4,8 @@ My own browser on PyQT5, written in Python. This browser includes a Chrome 129 e
 ## License
 
 Durrbrowser is released under the **GNU General Public License v3.0**.
+
+### Requirements
+
+PyQt5>=5.15.0
+PyQtWebEngine>=5.15.0
